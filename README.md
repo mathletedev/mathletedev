@@ -7,6 +7,12 @@
 - 📅 2021 Goals: Learn C/C++ and Java
 - 📝 Fun Fact: I enjoy participating in math and science competitions!
 
+## What I'm Working On:
+<img align="center" alt="Fynn" src="https://github-readme-stats.vercel.app/api/pin/?username=MathleteDev&repo=Fynn&theme=radical&hide_border=true">
+<img align="center" alt="Energized" src="https://github-readme-stats.vercel.app/api/pin/?username=MathleteDev&repo=Energized&theme=radical&hide_border=true">
+
+<br />
+
 ## Languages:
 
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
