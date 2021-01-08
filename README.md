@@ -36,8 +36,4 @@
 
 <br />
 
-<img align="left" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMathlete&show_icons=true&theme=radical&layout=compact" />
-
-<br />
-
-<img align="left" alt="Github Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheMathlete&show_icons=true&theme=radical&layout=compact" />
+<img align="left" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMathlete&theme=radical&layout=compact" />
