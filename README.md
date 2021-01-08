@@ -1,7 +1,9 @@
-### 👋 Hi there!
+### 👋 Hi There!
 
-## I'm a beginner programmer
+## I'm a Beginner Programmer!
 - 🤖 I'm currently working on some Discord bots!
+- 🎮 I've made some games with the Unity game engine!
+- 💻 I've also made some websites with HTML, CSS, and Javascript!
 - 📅 2021 Goals: Learn C/C++ and Java
 - 📝 Fun Fact: I enjoy participating in math and science competitions!
 
