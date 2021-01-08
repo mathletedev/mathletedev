@@ -37,12 +37,6 @@
 
 <br />
 
-## What I'm Working On:
-<img align="center" alt="Fynn" src="https://github-readme-stats.vercel.app/api/pin/?username=MathleteDev&repo=Fynn&theme=radical&hide_border=true">
-<img align="center" alt="Energized" src="https://github-readme-stats.vercel.app/api/pin/?username=MathleteDev&repo=Energized&theme=radical&hide_border=true">
-
-<br />
-
 ## Credits:
 - 📊 Thanks to [anuraghazra][github_stats] for the Github README stats!
 
