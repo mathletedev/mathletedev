@@ -29,9 +29,15 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
-<br />
 
 ---
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheMathlete&show_icons=true&theme=radical" />
-<img align="left" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMathlete&theme=radical&layout=compact" />
+
+<br />
+
+<img align="left" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMathlete&show_icons=true&theme=radical&layout=compact" />
+
+<br />
+
+<img align="left" alt="Github Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=TheMathlete&show_icons=true&theme=radical&layout=compact" />
