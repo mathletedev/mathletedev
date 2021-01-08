@@ -27,3 +27,7 @@
 <img align="left" alt="Unity Engine" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<br />
+
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheMathlete&show_icons=true&hide_border=true)" />
