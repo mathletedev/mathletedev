@@ -34,3 +34,10 @@
 
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MathleteDev&show_icons=true&theme=radical&custom_title=Github&include_all_commits=true&hide_border=true" />
 <img align="center" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathleteDev&theme=radical&layout=compact&custom_title=Languages&hide_border=true&hide=asp.net" />
+
+<br />
+
+## Credits:
+- 📊 Thanks to [anuraghazra][github_stats] for the Github README stats!
+
+[github_stats]: https://github.com/anuraghazra/github-readme-stats
