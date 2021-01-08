@@ -32,8 +32,11 @@
 
 ---
 
+## Stats:
+
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheMathlete&show_icons=true&theme=radical" />
 
+<br />
 <br />
 
 <img align="left" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMathlete&theme=radical&layout=compact" />
