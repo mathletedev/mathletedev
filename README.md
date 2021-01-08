@@ -1,4 +1,4 @@
-# 👋 Hi There! I'm TheMathlete (a.k.a. MathleteDev)!
+### 👋 Hi There! I'm TheMathlete (a.k.a. MathleteDev)!
 
 ## I'm a Beginner Programmer!
 - 🤖 I'm currently working on some Discord bots!
@@ -32,5 +32,5 @@
 
 ## Stats:
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheMathlete&show_icons=true&theme=radical&custom_title=Github" />
-<img align="left" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMathlete&theme=radical&layout=compact&custom_title=Languages" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MathleteDev&show_icons=true&theme=radical&custom_title=Github" />
+<img align="left" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathleteDev&theme=radical&layout=compact&custom_title=Languages" />
