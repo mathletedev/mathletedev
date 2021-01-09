@@ -35,6 +35,7 @@
 
 [<img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email] 
 [<img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -51,3 +52,4 @@
 [simple_icons]: https://github.com/simple-icons/simple-icons
 [email]: mailto:mathletedev@gmail.com
 [discord]: https://discord.gg/V6BApb2gxP
+[twitter]: https://twitter.com/MathleteDev
