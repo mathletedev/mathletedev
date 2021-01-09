@@ -12,6 +12,7 @@
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
@@ -34,8 +35,6 @@
 
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MathleteDev&show_icons=true&theme=radical&custom_title=Github&include_all_commits=true&hide_border=true" />
 <img align="center" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathleteDev&theme=radical&layout=compact&custom_title=Languages&hide_border=true&hide=asp.net" />
-
-<br />
 
 ## Credits:
 - 📊 Thanks to [anuraghazra][github_stats] for the Github README stats!
