@@ -33,8 +33,8 @@
 
 ## Contact Me:
 
-[<img align="left" alt="Email" width="26px" src="https:cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email] 
-[<img align="left" alt="Discord" width="26px" src="https:cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email] 
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
