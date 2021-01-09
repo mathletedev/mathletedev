@@ -31,6 +31,13 @@
 
 <br />
 
+## Contact Me:
+
+[<img align="left" alt="Email" width="26px" src="https:cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email] 
+[<img align="left" alt="Discord" width="26px" src="https:cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+<br />
+
 ## Stats:
 
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MathleteDev&show_icons=true&theme=radical&custom_title=Github&include_all_commits=true&hide_border=true" />
@@ -38,5 +45,9 @@
 
 ## Credits:
 - 📊 Thanks to [anuraghazra][github_stats] for the Github README stats!
+- 🔗 Thanks to [simple-icons][simple_icons] for the icons in the Contact section!
 
 [github_stats]: https://github.com/anuraghazra/github-readme-stats
+[simple_icons]: https://github.com/simple-icons/simple-icons
+[email]: mailto:mathletedev@gmail.com
+[discord]: https://discord.gg/V6BApb2gxP
