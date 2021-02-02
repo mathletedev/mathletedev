@@ -36,10 +36,11 @@
 
 <br />
 
-## Contact Me:
+## Platforms:
 
 [<img align="left" title="Email" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" title="Discord" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" title="Youtube" alt="Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" title="Facebook" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" title="Twitter" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -59,5 +60,6 @@
 [simple_icons]: https://github.com/simple-icons/simple-icons
 [email]: mailto:mathletedev@gmail.com
 [discord]: https://discord.gg/V6BApb2gxP
-[facebook]: https://www.facebook.com/profile.php?id=100061416503358
+[youtube]: https://youtube.com/channel/UCOaIT1nP-FhOFlhz2_fzJ1Q
+[facebook]: https://facebook.com/profile.php?id=100061416503358
 [twitter]: https://twitter.com/MathleteDev
