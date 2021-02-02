@@ -4,8 +4,8 @@
 
 - 📱 I'm working on an iOS/ Android app!
 - 🤖 I've made some bots for Discord!
-- 💻 I've also made websites with HTML, CSS, and Javascript!
-- 🧠 I'm currently learning TypeScript!
+- 💻 I've also made websites with HTML & CSS / React and TypeScript!
+- 🧠 I'm currently learning C++!
 - 📅 2021 Goals: Learn C/C++ and Java
 - 📝 Fun Fact: I enjoy participating in math and science competitions!
 
