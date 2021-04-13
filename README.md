@@ -1,10 +1,10 @@
-### 👋 Hi There! I'm TheMathlete (a.k.a. MathleteDev)!
+### 🐬 Hi! I'm MathleteDev!
 
 ## I'm a Intermediate Programmer!
 
-- 🏫 I'm working on a website for classwork management!
-- 🤖 I've made some bots for Discord!
-- 💻 I've also made websites with HTML & CSS / React and TypeScript!
+- 🏫 I'm working on a [website][corsynx] for classwork management!
+- 🎮 I've made games with the Unity Game Engine!
+- 🤖 I've also made some bots for Discord!
 - 📅 2021 Goals: Learn Java / Go
 - 📝 Fun Fact: I enjoy participating in math and science competitions!
 
@@ -56,6 +56,7 @@
 - 📊 Thanks to [anuraghazra][github_stats] for the Github README stats!
 - 🔗 Thanks to [simple-icons][simple_icons] for the icons in the Contact section!
 
+[corsynx]: https://corsynx.web.app
 [github_stats]: https://github.com/anuraghazra/github-readme-stats
 [simple_icons]: https://github.com/simple-icons/simple-icons
 [email]: mailto:mathletedev@gmail.com
