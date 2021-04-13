@@ -49,7 +49,7 @@
 ## Stats:
 
 <img align="center" title="Github Stats" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MathleteDev&show_icons=true&theme=radical&custom_title=Github&include_all_commits=true&hide_border=true" />
-<img align="center" title="Languages" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathleteDev&theme=radical&layout=compact&custom_title=Languages" />
+<img align="center" title="Languages" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathleteDev&theme=radical&layout=compact&custom_title=Languages&hide_border=true" />
 
 ## Credits:
 
