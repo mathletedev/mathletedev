@@ -60,7 +60,7 @@
 [github_stats]: https://github.com/anuraghazra/github-readme-stats
 [simple_icons]: https://github.com/simple-icons/simple-icons
 [email]: mailto:mathletedev@gmail.com
-[discord]: https://discord.gg/qmpkq66RZw
+[discord]: https://discord.gg/RRfW8FrX3E
 [youtube]: https://youtube.com/channel/UCOaIT1nP-FhOFlhz2_fzJ1Q
 [facebook]: https://facebook.com/profile.php?id=100061416503358
 [twitter]: https://twitter.com/MathleteDev
