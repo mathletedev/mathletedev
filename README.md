@@ -1,6 +1,6 @@
 ### 🐬 Hi! I'm MathleteDev!
 
-## I'm a Intermediate Programmer!
+## I'm an Intermediate Programmer!
 
 - 🏫 I'm working on a [website][corsynx] for classwork management!
 - 🎮 I've made games with the Unity Game Engine!
