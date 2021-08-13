@@ -2,10 +2,10 @@
 
 ## I'm an Intermediate Programmer!
 
-- 🏫 I'm working on a [website][corsynx] for classwork management!
+- 🏫 I'm working on an [API][bluehawk] for handling logs!
 - 🎮 I've made games with the Unity Game Engine!
 - 🤖 I've also made some bots for Discord!
-- 📅 2021 Goals: Learn Java / Go
+- 📅 2021 Goals: Learn Rust and work with GraphQL
 - 📝 Fun Fact: I enjoy participating in math and science competitions!
 
 ## Languages:
@@ -61,7 +61,7 @@
 
 ## [???][secret]
 
-[corsynx]: https://corsynx.web.app
+[bluehawk]: https://google.com
 [github_stats]: https://github.com/anuraghazra/github-readme-stats
 [simple_icons]: https://github.com/simple-icons/simple-icons
 [email]: mailto:mathletedev@gmail.com
