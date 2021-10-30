@@ -4,7 +4,7 @@
 
 <details>
   <summary>Projects</summary>
-  <br>
+  <br/>
   - [teachersonly.com](https://teachersonly.vercel.app): A dating app for teachers
   - [Rust Sudoku Solver](https://github.com/mathletedev/rust-sudoku-solver): A sudoku solver build in Rust
   - [kotoamatsukami](https://github.com/mathletedev/kotoamatsukami): A (partial) TypeScript machine learning library
@@ -12,7 +12,7 @@
 
 <details>
   <summary>Fun Facts</summary>
-  <br>
+  <br/>
   - My favorite fields of science are physics, computer science, and math
   - My favorite programming language is TypeScript
   - I started coding when I was around 8
