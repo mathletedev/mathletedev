@@ -1,12 +1,25 @@
 ### 🐬 Hi! I'm MathleteDev!
 
-## I'm an Intermediate Programmer!
+> I'm a student learning how to code!
 
-- 🏫 I'm working on an [API][bluehawk] for handling logs!
-- 🎮 I've made games with the Unity Game Engine!
-- 🤖 I've also made some bots for Discord!
-- 📅 2021 Goals: Learn Rust and work with GraphQL
-- 📝 Fun Fact: I enjoy participating in math and science competitions!
+<details>
+  <summary>Projects</summary>
+  <br>
+  - [teachersonly.com](https://teachersonly.vercel.app): A dating app for teachers
+  - [Rust Sudoku Solver](https://github.com/mathletedev/rust-sudoku-solver): A sudoku solver build in Rust
+  - [kotoamatsukami](https://github.com/mathletedev/kotoamatsukami): A (partial) TypeScript machine learning library
+</details>
+
+<details>
+  <summary>Fun Facts</summary>
+  <br>
+  - My favorite fields of science are physics, computer science, and math
+  - My favorite programming language is TypeScript
+  - I started coding when I was around 8
+  - I am currently a freshman in high school
+</details>
+
+---
 
 ## Languages:
 
@@ -20,7 +33,7 @@
 <img align="left" title="Go" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" title="CSS" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<br />
+---
 
 ## Tools:
 
@@ -36,41 +49,33 @@
 <img align="left" title="Next.js" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
 <img align="left" title="GraphQL" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" title="PostgreSQL" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" title="Firebase" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" title="Discord" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />
 <img align="left" title="Unity Engine" alt="Unity Engine" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 
-<br />
+---
 
 ## Contact Me:
 
-[<img align="left" title="Email" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" title="Discord" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" title="YouTube" alt="YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" title="Facebook" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" title="Twitter" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" title="Email" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:mathletedev@gmail.com)
+[<img align="left" title="Discord" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/RRfW8FrX3E)
+[<img align="left" title="YouTube" alt="YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/channel/UCOaIT1nP-FhOFlhz2_fzJ1Q)
+[<img align="left" title="Facebook" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/profile.php?id=100061416503358)
+[<img align="left" title="Twitter" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MathleteDev)
 
-<br />
+---
 
 ## Stats:
 
 <img align="center" title="Github Stats" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mathletedev&show_icons=true&theme=onedark&custom_title=Github&include_all_commits=true&hide_border=true" />
 <img align="center" title="Languages" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathletedev&theme=onedark&layout=compact&custom_title=Languages&hide_border=true" />
 
+---
+
 ## Credits:
 
-- 📊 Thanks to [anuraghazra][github_stats] for the Github README stats!
-- 🔗 Thanks to [simple-icons][simple_icons] for the icons in the Contact section!
+- 📊 Thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats) for the Github README stats!
+- 🔗 Thanks to [simple-icons](https://github.com/simple-icons/simple-icons) for the icons in the Contact section!
 
-## [???][secret]
+---
 
-[bluehawk]: https://google.com
-[github_stats]: https://github.com/anuraghazra/github-readme-stats
-[simple_icons]: https://github.com/simple-icons/simple-icons
-[email]: mailto:mathletedev@gmail.com
-[discord]: https://discord.gg/RRfW8FrX3E
-[youtube]: https://youtube.com/channel/UCOaIT1nP-FhOFlhz2_fzJ1Q
-[facebook]: https://facebook.com/profile.php?id=100061416503358
-[twitter]: https://twitter.com/MathleteDev
-[secret]: https://goo.gl/CWqeBF
+## [???](https://mathletedev.vercel.app/more)
