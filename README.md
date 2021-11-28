@@ -1,18 +1,19 @@
-# 🐬 Hi! I'm Delta Eames, A.K.A. MathleteDev!
+# 🐬 Hi! I'm MathleteDev!
 
 > I'm a student learning how to code!
 
 <details>
   <summary>Projects</summary>
   <ul>
-    <li><a href="https://teachersonly.vercel.app">teachersonly.com</a> - A dating app for teachers</li>
+    <li><a href="https://pentropy.vercel.app">pentropy</a> - A journal and notes app</li>
+    <li><a href="https://lette.vercel.app">lette</a> - A quick and easy color palette maker</li>
     <li><a href="https://github.com/mathletedev/rust-sudoku-solver">Rust Sudoku Solver</a> - A sudoku solver build in Rust</li>
-    <li><a href="https://github.com/mathletedev/kotoamatsukami">kotoamatsukami</a> - A (partial) TypeScript machine learning library</li>
+    <li><a href="https://github.com/mathletedev/kotoamatsukami">kotoamatsukami</a> - A TypeScript machine learning library</li>
   </ul>
 </details>
 
 <details>
-  <summary>Fun Facts</summary>
+  <summary>About Me</summary>
   <ul>
     <li>My favorite fields of science are physics, computer science, and math</li>
     <li>My favorite programming language is TypeScript</li>
@@ -49,7 +50,6 @@
 <img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" title="Yarn" alt="Yarn" width="26px" src="https://avatars.githubusercontent.com/u/22247014?s=400&v=4" />
 <img align="left" title="Next.js" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
-<img align="left" title="React" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" title="GraphQL" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" title="Express" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
