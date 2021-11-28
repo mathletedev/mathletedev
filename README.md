@@ -2,6 +2,8 @@
 
 > I'm a student learning how to code!
 
+`i use arch btw`
+
 <details>
   <summary>Projects</summary>
   <ul>
