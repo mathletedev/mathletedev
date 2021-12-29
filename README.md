@@ -1,72 +1,31 @@
-# 🐬 Hi! I'm MathleteDev!
-
-> I'm a student learning how to code!
-
-`i use arch btw`
+<div align="center">
+	<h1>Hi! I'm <a href="https://mathletedev.vercel.app">MathleteDev</a> 🐬 !</h1>
+	<div>I'm a student learning to code!</div>
+	<br />
+	<img src="https://img.shields.io/github/stars/mathletedev?style=social" />
+	<img src="https://img.shields.io/youtube/channel/subscribers/UCOaIT1nP-FhOFlhz2_fzJ1Q?style=social" />
+	<br />
+	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=flat&logo=linux" /></a>
+	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=flat&logo=arch-linux" /></a>
+	<a href="https://xmonad.org"><img src="https://img.shields.io/badge/DE-XMonad-c678dd?style=flat&logo=haskell" /></a>
+	<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=flat&logo=neovim" /></a>
+	<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/LANG-TypeScript-61afef?style=flat&logo=typescript" /></a>
+	<br />
+	<a href="mailto:mathletedev@gmail.com/"><img src="https://img.shields.io/badge/EMAIL-mathletedev@gmail.com-e06c75?style=flat&logo=gmail" /></a>
+	<a href="https://discord.gg/RRfW8FrX3E"><img src="https://img.shields.io/badge/DC-mathletedev-61afef?style=flat&logo=discord" /></a>
+	<a href="https://youtube.com/channel/UCOaIT1nP-FhOFlhz2_fzJ1Q"><img src="https://img.shields.io/badge/YT-MathleteDev-dcdfe4?style=flat&logo=youtube" /></a>
+	<br />
+	<br />
+	<img src="https://github-readme-stats.vercel.app/api?username=mathletedev&theme=onedark&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathletedev&theme=onedark&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
+</div>
 
 <details>
-  <summary>Projects</summary>
-  <ul>
-    <li><a href="https://pentropy.vercel.app">pentropy</a> - A journal and notes app</li>
-    <li><a href="https://lette.vercel.app">lette</a> - A quick and easy color palette maker</li>
-    <li><a href="https://github.com/mathletedev/rust-sudoku-solver">Rust Sudoku Solver</a> - A sudoku solver build in Rust</li>
-    <li><a href="https://github.com/mathletedev/kotoamatsukami">kotoamatsukami</a> - A TypeScript machine learning library</li>
-  </ul>
+	<summary>Projects</summary>
+	<ul>
+		<li><a href="https://fluxdb.vercel.app/">fluxdb</a> - A website database</li>
+		<li><a href="https://lette.vercel.app/">lette</a> - A quick and easy color palette maker</li>
+		<li><a href="https://github.com/mathletedev/rust-sudoku-solver/">Rust Sudoku Solver</a> - A sudoku solver made with Rust</li>
+		<li><a href="https://github.com/mathletedev/kotoamatsukami/">kotoamatsukami</a> - A TypeScript machine learning library</li>
+	</ul>
 </details>
-
-<details>
-  <summary>About Me</summary>
-  <ul>
-    <li>My favorite fields of science are physics, computer science, and math</li>
-    <li>My favorite programming language is TypeScript</li>
-    <li>I started coding when I was around 8</li>
-    <li>I am currently a freshman in high school</li>
-  </ul>
-</details>
-
-<img align="center" title="Github Stats" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mathletedev&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true" />
-<img align="center" title="Languages" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathletedev&theme=onedark&layout=compact&hide_border=true" />
-
-## Languages
-
-<img align="left" title="TypeScript" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" title="Java" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" title="Rust" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
-<img align="left" title="C++" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" title="Haskell" alt="Haskell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
-<img align="left" title="Python" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" title="C#" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" title="Go" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-
-<br />
-
-## Tools
-
-<img align="left" title="Arch" alt="Arch" width="26px" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png" />
-<img align="left" title="Fish" alt="Fish" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fish/fish.png" />
-<img align="left" title="Neovim" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />
-<img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />
-<img align="left" title="Github" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" title="Next.js" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" />
-<img align="left" title="GraphQL" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" title="Discord" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />
-
-<br />
-
-## Contact Me
-
-[<img align="left" title="Email" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:mathletedev@gmail.com)
-[<img align="left" title="Discord" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/RRfW8FrX3E)
-[<img align="left" title="YouTube" alt="YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/channel/UCOaIT1nP-FhOFlhz2_fzJ1Q)
-[<img align="left" title="Facebook" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/mathletedev)
-[<img align="left" title="Twitter" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MathleteDev)
-
-<br />
-
-## Credits
-
-- 📊 Thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats) for the Github README stats!
-- 🔗 Thanks to [simple-icons](https://github.com/simple-icons/simple-icons) for the icons in the Contact section!
-
-## [???](https://mathletedev.vercel.app/more)
