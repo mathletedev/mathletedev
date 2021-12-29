@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Hi! I'm <a href="https://mathletedev.vercel.app">MathleteDev</a> 🐬 !</h1>
-	<div>I'm a student learning to code!</div>
+	<div>> I'm a student learning to code!</div>
 	<br />
 	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=flat&logo=linux" /></a>
 	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=flat&logo=arch-linux" /></a>
