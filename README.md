@@ -21,9 +21,9 @@
 <details>
 	<summary>Projects</summary>
 	<ul>
-		<li><a href="https://fluxdb.vercel.app">fluxdb</a> - A website database</li>
+		<li><a href="https://nebulii.vercel.app">Nebulii</a> - Where ideas become reality</li>
 		<li><a href="https://lette.vercel.app">lette</a> - A quick and easy color palette maker</li>
-		<li><a href="https://github.com/mathletedev/rust-sudoku-solver">Rust Sudoku Solver</a> - A sudoku solver made with Rust</li>
+		<li><a href="https://github.com/mathletedev/pinyin">Pinyin</a> - A command line Pinyin input tool</li>
 		<li><a href="https://github.com/mathletedev/kotoamatsukami">kotoamatsukami</a> - A TypeScript machine learning library</li>
 		<li><a href="https://mathletedev.vercel.app/more">???</a>
 	</ul>
