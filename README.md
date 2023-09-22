@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Hi! I'm <a href="https://mathletedev.github.io">Neal Wang</a> 🐬 !</h1>
-	<div>Rookie programmer; professional bug creator</div>
+	<div>Aspiring software engineer ✨</div>
 	<br />
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
 	<a href="https://nixos.org"><img src="https://img.shields.io/badge/DISTRO-NixOS-74c7ec?style=flat&logo=nixos" /></a>
