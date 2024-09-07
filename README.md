@@ -16,7 +16,7 @@
 	<br />
 	<a href="https://rust-lang.org"><img src="https://img.shields.io/badge/LANG-Rust-f2cdcd?style=flat&logo=rust" /></a>
 	<a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-74c7ec?style=flat&logo=typescript" /></a>
-	<a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/Gleam-f5c2e7?style=flat&logo=haskell" /></a>
+	<a href="https://go.dev"><img src="https://img.shields.io/badge/Go-89dceb?style=flat&logo=go" /></a>
 	<br />
 	<br />
 	<img src="https://github-readme-stats.vercel.app/api?username=mathletedev&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
