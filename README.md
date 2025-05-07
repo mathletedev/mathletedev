@@ -1,7 +1,7 @@
 <div align="center">
 	<h1>Hi! I'm <a href="https://mathletedev.github.io">Neal Wang</a> 🐬 !</h1>
+    <sub><code>// TODO: insert inspirational quote</code></sub>
 	<br />
-    <code>// TODO: insert inspirational quote</code>
 	<br />
 	<a href="https://gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
 	<a href="https://nixos.org"><img src="https://img.shields.io/badge/DISTRO-NixOS-74c7ec?style=flat&logo=nixos" /></a>
@@ -22,8 +22,8 @@
 	<br />
     <div align="left">
         <h2>About Me</h2>
+        <p>Full-Stack DevSecBizAIOps Ninja Unicorn 🦄 • Cloud-Native Zero-Trust Thought Leader 🧠 • Friday-Afternoon-Force-Push-to-Prod Evangelist 🚨</p>
         <ul>
-            <li>Full-Stack DevSecBizAIOps Ninja Unicorn 🦄 • Cloud-Native Zero-Trust Thought Leader 🧠 • Friday-Afternoon-Force-Push-to-Prod Evangelist 🚨</li>
             <li>Favourite Languages: Haskell / TailwindCSS / Jira tickets</li>
             <li>Favourite Vim Command: <code>:q!</code></li>
             <li>Favourite Regex: <code>^https?:\/\/(www\.)?(youtube\.com\/watch\?v=|youtu\.be\/)(dQw4w9WgXcQ|dQw4w9WgXcQ(&|\?).*|dQw4w9WgXcQ\/.*|.*[&?]v=dQw4w9WgXcQ(&.*)?|.*v%3DdQw4w9WgXcQ.*|.*%2Fwatch%3Fv%3DdQw4w9WgXcQ.*|.*embed\/dQw4w9WgXcQ.*|.*[&?]list=.*dQw4w9WgXcQ.*|.*redirect=.*dQw4w9WgXcQ.*)$</code></li>
