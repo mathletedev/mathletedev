@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Hi! I'm <a href="https://mathletedev.github.io">Neal Wang</a> 🐬 !</h1>
-    <h2><code>// TODO: insert inspirational quote</code></h2>
+    <div><code>// TODO: insert inspirational quote</code></div>
 	<br />
 	<br />
 	<a href="https://gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
@@ -36,6 +36,8 @@
 - 📉 Reduced MTTD, MTTR, MTuWThF.
 - 📈 Increased ROI, OKRs, KPIs, ETH, and serotonin.
 - ♾️ 200+ Bitbucket commits. 8,000 LoC. Infinite chaos.
+
+---
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=mathletedev&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true&number_format=long&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
