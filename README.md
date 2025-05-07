@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Hi! I'm <a href="https://mathletedev.github.io">Neal Wang</a> 🐬 !</h1>
-    <sub><code>// TODO: insert inspirational quote</code></sub>
+    <h2><code>// TODO: insert inspirational quote</code></h2>
 	<br />
 	<br />
 	<a href="https://gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
@@ -19,25 +19,25 @@
 	<br />
 	<a href="https://youtube.com/@mathletedev"><img src="https://img.shields.io/youtube/channel/subscribers/UCOaIT1nP-FhOFlhz2_fzJ1Q?style=flat&logo=youtube&label=YOUTUBE&color=eba0ac" /></a>
 	<a href="https://discord.gg/RRfW8FrX3E"><img src="https://img.shields.io/discord/831364077875626015?color=74c7ec&label=DISCORD&logo=discord" /></a>
-	<br />
-    <div align="left">
-        <h2>About Me</h2>
-        <p>Full-Stack DevSecBizAIOps Ninja Unicorn 🦄 • Cloud-Native Zero-Trust Thought Leader 🧠 • Friday-Afternoon-Force-Push-to-Prod Evangelist 🚨</p>
-        <ul>
-            <li>Favourite Languages: Haskell / TailwindCSS / Jira tickets</li>
-            <li>Favourite Vim Command: <code>:q!</code></li>
-            <li>Favourite Regex: <code>^https?:\/\/(www\.)?(youtube\.com\/watch\?v=|youtu\.be\/)(dQw4w9WgXcQ|dQw4w9WgXcQ(&|\?).*|dQw4w9WgXcQ\/.*|.*[&?]v=dQw4w9WgXcQ(&.*)?|.*v%3DdQw4w9WgXcQ.*|.*%2Fwatch%3Fv%3DdQw4w9WgXcQ.*|.*embed\/dQw4w9WgXcQ.*|.*[&?]list=.*dQw4w9WgXcQ.*|.*redirect=.*dQw4w9WgXcQ.*)$</code></li>
-        </ul>
-        <h2>Work Experience</h2>
-        <ul>
-            <li>🔎 Deployed end-to-end serverless, hyperoptimised, micro-monolith logs inspector (RabbitMQ + WebSockets + Kafka-adjacent vibes) for enterprise-grade RCA via polyglot stack.</li>
-            <li>🚀 Integrated AI/ML/CV/AR/IoT/NLP/NFT/LOL pipelines for real-time edge inference on smart factory devices (powered by TypeScriptReactMUICSharpASPNETCore™ and caffeine).</li>
-            <li>📉 Reduced MTTD, MTTR, MTuWThF.</li>
-            <li>📈 Increased ROI, OKRs, KPIs, ETH, and serotonin.</li>
-            <li>♾️ 200+ Bitbucket commits. 8,000 LoC. Infinite chaos.</li>
-        </ul>
-    </div>
-	<br />
+</div>
+
+## About Me
+
+**Full-Stack DevSecBizAIOps Ninja Unicorn 🦄 • Cloud-Native Zero-Trust Thought Leader 🧠 • Friday-Afternoon-Force-Push-to-Prod Evangelist 🚨**
+
+- Favourite Languages: Haskell / TailwindCSS / Jira tickets
+- Favourite Vim Command: `:q!`
+- Favourite Regex: `^https?:\/\/(www\.)?(youtube\.com\/watch\?v=|youtu\.be\/)(dQw4w9WgXcQ|dQw4w9WgXcQ(&|\?).*|dQw4w9WgXcQ\/.*|.*[&?]v=dQw4w9WgXcQ(&.*)?|.*v%3DdQw4w9WgXcQ.*|.*%2Fwatch%3Fv%3DdQw4w9WgXcQ.*|.*embed\/dQw4w9WgXcQ.*|.*[&?]list=.*dQw4w9WgXcQ.*|.*redirect=.*dQw4w9WgXcQ.*)$`
+
+## Work Experience
+
+- 🔎 Deployed end-to-end serverless, hyperoptimised, micro-monolith logs inspector (RabbitMQ + WebSockets + Kafka-adjacent vibes) for enterprise-grade RCA via polyglot stack.
+- 🚀 Integrated AI/ML/CV/AR/IoT/NLP/NFT/LOL pipelines for real-time edge inference on smart factory devices (powered by TypeScriptReactMUICSharpASPNETCore™ and caffeine).
+- 📉 Reduced MTTD, MTTR, MTuWThF.
+- 📈 Increased ROI, OKRs, KPIs, ETH, and serotonin.
+- ♾️ 200+ Bitbucket commits. 8,000 LoC. Infinite chaos.
+
+<div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=mathletedev&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true&number_format=long&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathletedev&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
