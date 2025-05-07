@@ -2,7 +2,6 @@
 	<h1>Hi! I'm <a href="https://mathletedev.github.io">Neal Wang</a> 🐬 !</h1>
     <div><code>// TODO: insert inspirational quote</code></div>
 	<br />
-	<br />
 	<a href="https://gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
 	<a href="https://nixos.org"><img src="https://img.shields.io/badge/DISTRO-NixOS-74c7ec?style=flat&logo=nixos" /></a>
 	<a href="https://hyprland.org"><img src="https://img.shields.io/badge/WC-Hyprland-89dceb?style=flat&logo=elixir" /></a>
@@ -20,6 +19,8 @@
 	<a href="https://youtube.com/@mathletedev"><img src="https://img.shields.io/youtube/channel/subscribers/UCOaIT1nP-FhOFlhz2_fzJ1Q?style=flat&logo=youtube&label=YOUTUBE&color=eba0ac" /></a>
 	<a href="https://discord.gg/RRfW8FrX3E"><img src="https://img.shields.io/discord/831364077875626015?color=74c7ec&label=DISCORD&logo=discord" /></a>
 </div>
+
+---
 
 ## About Me
 
