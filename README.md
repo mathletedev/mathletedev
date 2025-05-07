@@ -35,7 +35,7 @@
 
 - 🔎 Deployed end-to-end serverless, hyperoptimised, micro-monolith logs inspector (RabbitMQ + WebSockets + Kafka-adjacent vibes) for enterprise-grade RCA via polyglot stack.
 - 🚀 Integrated AI/ML/CV/AR/IoT/NLP/NFT/LOL pipelines for real-time edge inference on smart factory devices (powered by TypeScriptReactMUICSharpASPNETCore™ and caffeine).
-- 📉 Reduced MTTD, MTTR, MTuWThF.
+- 📉 Reduced MTTD, MTTR, MTWTF.
 - 📈 Increased ROI, OKRs, KPIs, ETH, and serotonin.
 - ♾️ 200+ Bitbucket commits. 8,000 LoC. Infinite chaos.
 
