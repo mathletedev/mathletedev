@@ -2,6 +2,7 @@
 	<h1>Hi! I'm <a href="https://mathletedev.github.io">Neal Wang</a> 🐬 !</h1>
 	<br />
     <code>// TODO: insert inspirational quote</code>
+	<br />
 	<a href="https://gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
 	<a href="https://nixos.org"><img src="https://img.shields.io/badge/DISTRO-NixOS-74c7ec?style=flat&logo=nixos" /></a>
 	<a href="https://hyprland.org"><img src="https://img.shields.io/badge/WC-Hyprland-89dceb?style=flat&logo=elixir" /></a>
@@ -19,13 +20,13 @@
 	<a href="https://youtube.com/@mathletedev"><img src="https://img.shields.io/youtube/channel/subscribers/UCOaIT1nP-FhOFlhz2_fzJ1Q?style=flat&logo=youtube&label=YOUTUBE&color=eba0ac" /></a>
 	<a href="https://discord.gg/RRfW8FrX3E"><img src="https://img.shields.io/discord/831364077875626015?color=74c7ec&label=DISCORD&logo=discord" /></a>
 	<br />
-    <div>
+    <div align="left">
         <h2>About Me</h2>
         <ul>
             <li>Full-Stack DevSecBizAIOps Ninja Unicorn 🦄 • Cloud-Native Zero-Trust Thought Leader 🧠 • Friday-Afternoon-Force-Push-to-Prod Evangelist 🚨</li>
             <li>Favourite Languages: Haskell / TailwindCSS / Jira tickets</li>
-            <li>Favourite Vim Command: `:q!`</li>
-            <li>Favourite Regex: `^https?:\/\/(www\.)?(youtube\.com\/watch\?v=|youtu\.be\/)(dQw4w9WgXcQ|dQw4w9WgXcQ(&|\?).*|dQw4w9WgXcQ\/.*|.*[&?]v=dQw4w9WgXcQ(&.*)?|.*v%3DdQw4w9WgXcQ.*|.*%2Fwatch%3Fv%3DdQw4w9WgXcQ.*|.*embed\/dQw4w9WgXcQ.*|.*[&?]list=.*dQw4w9WgXcQ.*|.*redirect=.*dQw4w9WgXcQ.*)$`</li>
+            <li>Favourite Vim Command: <code>:q!</code></li>
+            <li>Favourite Regex: <code>^https?:\/\/(www\.)?(youtube\.com\/watch\?v=|youtu\.be\/)(dQw4w9WgXcQ|dQw4w9WgXcQ(&|\?).*|dQw4w9WgXcQ\/.*|.*[&?]v=dQw4w9WgXcQ(&.*)?|.*v%3DdQw4w9WgXcQ.*|.*%2Fwatch%3Fv%3DdQw4w9WgXcQ.*|.*embed\/dQw4w9WgXcQ.*|.*[&?]list=.*dQw4w9WgXcQ.*|.*redirect=.*dQw4w9WgXcQ.*)$</code></li>
         </ul>
         <h2>Work Experience</h2>
         <ul>
